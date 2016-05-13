@@ -1,1 +1,1 @@
-module.exports = 'super-awesome-book-store-but-a-poor-secret-key';
+module.exports = 'super-awesome-grocery-store-but-a-poor-secret-key';
